@@ -1,4 +1,4 @@
-# Aplikasi Pengelolaan Kontak (Contact Management)
+# Aplikasi Pengelolaan Kontak
 ## Identitas
 
 - Nama : Addin Husnan Nadhari
